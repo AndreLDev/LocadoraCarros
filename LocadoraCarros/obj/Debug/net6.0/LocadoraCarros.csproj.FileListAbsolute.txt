@@ -1,0 +1,14 @@
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\bin\Debug\net6.0\LocadoraCarros.exe
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\bin\Debug\net6.0\LocadoraCarros.deps.json
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\bin\Debug\net6.0\LocadoraCarros.runtimeconfig.json
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\bin\Debug\net6.0\LocadoraCarros.dll
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\bin\Debug\net6.0\LocadoraCarros.pdb
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\obj\Debug\net6.0\LocadoraCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\obj\Debug\net6.0\LocadoraCarros.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\obj\Debug\net6.0\LocadoraCarros.AssemblyInfo.cs
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\obj\Debug\net6.0\LocadoraCarros.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\obj\Debug\net6.0\LocadoraCarros.dll
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\obj\Debug\net6.0\refint\LocadoraCarros.dll
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\obj\Debug\net6.0\LocadoraCarros.pdb
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\obj\Debug\net6.0\LocadoraCarros.genruntimeconfig.cache
+C:\Users\tarde.cetafaju\source\repos\LocadoraCarros\LocadoraCarros\obj\Debug\net6.0\ref\LocadoraCarros.dll
